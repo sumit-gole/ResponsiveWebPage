@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "responsivewebpage1": {
+      "hosting": {
+        "responsive": [
+          "responsivewebpage1"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "responsivewebpage1"
+  }
+}
